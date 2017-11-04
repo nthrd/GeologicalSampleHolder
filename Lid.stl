@@ -1,0 +1,86 @@
+solid Exported from Blender-2.78 (sub 0)
+facet normal 0.000000 1.000000 0.000000
+outer loop
+vertex -0.030480 0.071438 0.027781
+vertex -0.029210 0.071438 0.031750
+vertex 0.029210 0.071438 0.031750
+endloop
+endfacet
+facet normal 0.000000 1.000000 0.000004
+outer loop
+vertex 0.029210 0.071438 0.031750
+vertex 0.030480 0.071438 0.027781
+vertex -0.030480 0.071438 0.027781
+endloop
+endfacet
+facet normal 0.000000 -1.000000 -0.000004
+outer loop
+vertex -0.029210 -0.077787 0.031750
+vertex -0.030480 -0.077787 0.027781
+vertex 0.030480 -0.077787 0.027781
+endloop
+endfacet
+facet normal 0.000000 -1.000000 0.000000
+outer loop
+vertex 0.030480 -0.077787 0.027781
+vertex 0.029210 -0.077787 0.031750
+vertex -0.029210 -0.077787 0.031750
+endloop
+endfacet
+facet normal -0.952424 0.000000 0.304777
+outer loop
+vertex -0.030480 -0.077787 0.027781
+vertex -0.029210 -0.077787 0.031750
+vertex -0.029210 0.071438 0.031750
+endloop
+endfacet
+facet normal -0.952424 0.000000 0.304776
+outer loop
+vertex -0.029210 0.071438 0.031750
+vertex -0.030480 0.071438 0.027781
+vertex -0.030480 -0.077787 0.027781
+endloop
+endfacet
+facet normal 0.952424 0.000000 0.304777
+outer loop
+vertex 0.030480 0.071438 0.027781
+vertex 0.029210 0.071438 0.031750
+vertex 0.029210 -0.077787 0.031750
+endloop
+endfacet
+facet normal 0.952424 0.000000 0.304776
+outer loop
+vertex 0.029210 -0.077787 0.031750
+vertex 0.030480 -0.077787 0.027781
+vertex 0.030480 0.071438 0.027781
+endloop
+endfacet
+facet normal 0.000000 0.000000 1.000000
+outer loop
+vertex -0.029210 0.071438 0.031750
+vertex -0.029210 -0.077787 0.031750
+vertex 0.029210 -0.077787 0.031750
+endloop
+endfacet
+facet normal 0.000000 0.000000 1.000000
+outer loop
+vertex 0.029210 -0.077787 0.031750
+vertex 0.029210 0.071438 0.031750
+vertex -0.029210 0.071438 0.031750
+endloop
+endfacet
+facet normal 0.000000 0.000000 -1.000000
+outer loop
+vertex -0.030480 -0.077787 0.027781
+vertex -0.030480 0.071438 0.027781
+vertex 0.030480 0.071438 0.027781
+endloop
+endfacet
+facet normal 0.000000 0.000000 -1.000000
+outer loop
+vertex 0.030480 0.071438 0.027781
+vertex 0.030480 -0.077787 0.027781
+vertex -0.030480 -0.077787 0.027781
+endloop
+endfacet
+endsolid Exported from Blender-2.78 (sub 0)
